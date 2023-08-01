@@ -1,3 +1,5 @@
+OPEN CV REAL TIME APLICATION 
+
 1:Video Surveillance: OpenCV can be used to process live video streams from surveillance cameras to detect and track objects, recognize faces, and analyze activities in real-time.
 
 2:Augmented Reality (AR): OpenCV can be utilized in AR applications to track objects or markers in real-time, superimpose virtual objects onto the live video feed, and create interactive visual experiences.
